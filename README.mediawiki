@@ -1,0 +1,10 @@
+== FunTechHouse_Regulator ==
+
+A pid regulator.
+
+This project uses a Arduino with a Ethernet shield, 
+and sends its results using MQTT to a Mosquitto server.
+
+Fore more info: 
+* http://fun-tech.se/FunTechHouse/
+
